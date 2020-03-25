@@ -1,2 +1,9 @@
-# Patricio Briceo
-Este es el primer Site que agrego a GitHub para empezar a trabajar y practicar con Git.
+# Patricio Briceno
+Aca voy a estar subiendo los diferentes Sites con los que voy trabajando
+
+Listos
+https://patriciobrvi.github.io/Arabia_Leandro/
+https://patriciobrvi.github.io/Bagnola_Racing/
+
+Por Trabajar
+Pai.SRL (pending approval)
