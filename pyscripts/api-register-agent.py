@@ -104,7 +104,7 @@ def restart_ossec():
 
 if __name__ == "__main__":
     # Configuration
-    base_url = 'http://192.168.0.148:54000'   # URL IP SRVWZHCENTOS7 host
+    base_url = 'http://192.168.0.148:55000'   # URL IP SRVWZHCENTOS7 host
     auth = HTTPBasicAuth('foo', 'bar')
     agent_name = "auto"
     verify = False  # Use with self-signed certificates.
