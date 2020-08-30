@@ -108,7 +108,7 @@ if __name__ == "__main__":
     auth = HTTPBasicAuth('foo', 'bar')
     agent_name = "auto"
     verify = False  # Use with self-signed certificates.
-
+    print("Python test script for agent registering.")
     print("Adding agent.")
     if agent_name == "auto":
         agent_name = get_hostname()
