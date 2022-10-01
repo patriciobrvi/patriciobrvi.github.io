@@ -6,7 +6,7 @@ Done </br>
 1 - https://patriciobrvi.github.io/Arabia_Leandro/ </br>
 2 - https://patriciobrvi.github.io/Bagnola_Racing/ </br>
 3 - https://patriciobrvi.github.io/Learning_Certificates/ </br>
-4 - https://patriciobrvi.github.io/remoteos/
+4 - https://patriciobrvi.github.io/Remoteos/ Sitio para el Parcial 1 de Tecno Educativa 2 - LTE - UTN
 </br>
 Templates </br>
 Motivo 1 - https://patriciobrvi.github.io/Templates/Motivo1/ </br>
