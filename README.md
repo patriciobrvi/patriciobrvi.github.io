@@ -7,6 +7,7 @@ Done </br>
 2 - https://patriciobrvi.github.io/Bagnola_Racing/ </br>
 3 - https://patriciobrvi.github.io/Learning_Certificates/ </br>
 4 - https://patriciobrvi.github.io/Remoteos/ Sitio para el Parcial 1 de Tecno Educativa 2 - LTE - UTN
+5 - https://patriciobrvi.github.io/edusecure/ Sitio para el TP U2 de Gestión de Recursos Digitales con Software Libre - LTE - UTN
 </br>
 Templates </br>
 Motivo 1 - https://patriciobrvi.github.io/Templates/Motivo1/ </br>
