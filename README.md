@@ -10,6 +10,7 @@ Done </br>
 5 - https://patriciobrvi.github.io/edusecure/ Sitio para el TP U2 de Gestión de Recursos Digitales con Software Libre - LTE - UTN </br>
 6 - https://patriciobrvi.github.io/edutec/ Sitio para el TP U1 de Tecnología Educativa III - LTE - UTN </br>
 7 - https://patriciobrvi.github.io/edusecure-tif/ Sitio para el TIF de GEstion de Software Libre - UTN FRBA - 2023 </br>
+8 - https://patriciobrvi.github.io/practica-grupo-02 Sitio para la Práctica en Tecno Edu realizada por el grupo 02  - UTN FRBA - 2023 </br>
 </br>
 Templates </br>
 Motivo 1 - https://patriciobrvi.github.io/Templates/Motivo1/ </br>
