@@ -1,4 +1,0 @@
-Este es el archivo inicial de creación para la estructura del sitio web de edutec. Página de tipo "landing page".
-Este sitio es parte del TP1 de la U1 de Tecnología Educativa III.
-
-Alumnos: Patricio Briceño, Maria Teresa Canovas La Mattina y Ezequiel Ricca
