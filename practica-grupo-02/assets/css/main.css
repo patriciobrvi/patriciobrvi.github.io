@@ -327,6 +327,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Prueba de jsutificado */
+
+	.text-justify {
+ 		 text-align: justify;
+	}
+
 /* Row */
 
 	.row {
