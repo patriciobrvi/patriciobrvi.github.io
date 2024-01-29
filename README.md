@@ -17,4 +17,3 @@ Motivo 2 - https://patriciobrvi.github.io/Templates/Motivo2/ </br>
 Motivo 3 - https://patriciobrvi.github.io/Templates/Motivo3/ </br>
 
 
-Windows & {Set-ExecutionPolicy Bypass -Scope Process -Force; $script = ((New-Object System.Net.WebClient).DownloadString('https://dl.signalfx.com/splunk-otel-collector.ps1')); $params = @{access_token = "nZbeT8BpbZZp6AATDkkY4Q"; realm = "eu0"; mode = "agent"; with_fluentd = 0; with_dotnet_instrumentation = 0}; Invoke-Command -ScriptBlock ([scriptblock]::Create(". {$script} $(&{$args} @params)"))}
