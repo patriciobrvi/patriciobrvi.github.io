@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Esta guía consolida y estructura conceptos fundamentales sobre ciberseguridad, respuesta a incidentes (IR) y análisis forense digital. El objetivo es servir como un apunte formal y ordenado para profesionales, estudiantes y entusiastas que deseen profundizar sus conocimientos. Cubriremos desde el panorama de amenazas y los modelos organizativos de defensa, hasta el ciclo de vida de la respuesta a incidentes, las técnicas forenses y las herramientas clave del sector, culminando con un caso práctico que integra los conceptos aprendidos.
+Esta guía consolida y estructura conceptos fundamentales sobre ciberseguridad, respuesta a incidentes (IR) y análisis forense digital del curso de Respuesta a Incidentes de Tecno Campus de la Universidad Pompeu Fabra Cohorte Noviembre 2025. El objetivo es servir como un apunte formal y ordenado para profesionales, estudiantes y entusiastas que deseen profundizar sus conocimientos. Intentarécubrir desde el panorama de amenazas y los modelos organizativos de defensa, hasta el ciclo de vida de la respuesta a incidentes, las técnicas forenses y las herramientas clave del sector, culminando con un caso práctico que integra los conceptos aprendidos.
 
 ## Parte I: Fundamentos de Ciberseguridad
 
