@@ -4,6 +4,20 @@
 
 Esta guía consolida y estructura conceptos fundamentales sobre ciberseguridad, respuesta a incidentes (IR) y análisis forense digital del curso de Respuesta a Incidentes de Tecno Campus de la Universidad Pompeu Fabra Cohorte Noviembre 2025. El objetivo es servir como un apunte formal y ordenado para profesionales, estudiantes y entusiastas que deseen profundizar sus conocimientos. Intentarécubrir desde el panorama de amenazas y los modelos organizativos de defensa, hasta el ciclo de vida de la respuesta a incidentes, las técnicas forenses y las herramientas clave del sector, culminando con un caso práctico que integra los conceptos aprendidos.
 
+--
+### Pendiente Agregar:
+- Subir Plantilla de recoleccion de evidencias
+- Subir Plantilla de cadena de custodia
+- Subir Plantilla o ejemplo de informes ejecutivos y técnicos
+- Crear Mapa de herramientas segun funciones con sus URLs.
+- Crear Paso a paso de armado de laboratorios con comandos paso a paso en linux y Windows
+- Armar de laboratorio en docker con herramientas opensource de práctica (quizas en una vps para compartir con el team)
+- Subir Links a recursos ya creados, videos o manuales
+- Subir casos de uso y ejercicios realizados en clase
+- Subir Fotos e imagenes ilustrativas de las herramientas
+- Subir Logs para hacer ejercicios de análisis
+--
+
 ## Parte I: Fundamentos de Ciberseguridad
 
 ### 1. El Panorama de Amenazas (Threat Landscape)
@@ -221,9 +235,4 @@ Este caso práctico sintetiza un incidente complejo, mostrando la aplicación de
     - **Gestión de Privilegios:** Se requiere una revisión de los permisos y de la seguridad del Active Directory.
     - **Proactividad:** El análisis rápido y la identificación del Golden Ticket evitaron un ataque de ransomware inminente, cuyo ejecutable fue encontrado en el DC.
   
-### Pendiente Agregar:
-- Plantilla de recoleccion de evidencias
-- Plantilla de cadena de custodia
-- Mapa de herramientas segun funciones
-- Paso a paso de armado de laboratorios con comandos paso a paso en linux y Windows
-- Armado de laboratorio en docker con herramientas opensource de práctica (quizas en una vps para compartir con el team)
+
