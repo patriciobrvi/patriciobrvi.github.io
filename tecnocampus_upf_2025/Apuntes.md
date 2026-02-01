@@ -96,11 +96,14 @@ graph LR
     C --> D[4. Actividad Post-Incidente];
     D --> A;
 ```
+------------- > AGREGAR ISO/LINEAL < ----------------
 
 #### Otros Modelos Relevantes
 - **Cyber Kill Chain (Lockheed Martin):** Modela las 7 fases de un ciberataque desde la perspectiva del adversario.
 - **MITRE ATT&CK®:** Una base de conocimiento global de tácticas y técnicas de adversarios, esencial para el Threat Hunting y la mejora de detecciones.
+------------- > AGREGAR IMAGEN ESQUEMA < ----------------
 - **Diamond Model of Intrusion Analysis:** Modela un incidente con cuatro vértices: Adversario, Infraestructura, Capacidad y Víctima.
+------------- > AGREGAR IMAGEN ESQUEMA < ----------------
 
 ### 2. Fases Detalladas de la Respuesta (NIST)
 
